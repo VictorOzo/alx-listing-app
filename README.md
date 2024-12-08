@@ -2,12 +2,12 @@
 The ALX Listing App project aims to scaffold and lay the foundational structure for a modern Airbnb clone.
 
 ## Project Structure
-### components directory: These components can be anything from simple buttons and input fields to complex custom components that encapsulate specific functionalities.
-### Interfaces directory: Interfaces define the structure of an object, specifying the properties and methods it should have. They are used to enforce type safety and improve code readability.
-### constants directory: This directory will be used to store reusable constants such as api urls,Color palettes,Theme variables.
-### public/assets directory: The public directory is specifically designed to store static assets that you want to be served directly to the browser without any server-side processing or bundling
+### 1. Components directory: These components can be anything from simple buttons and input fields to complex custom components that encapsulate specific functionalities.
+### 2. Interfaces directory: Interfaces define the structure of an object, specifying the properties and methods it should have. They are used to enforce type safety and improve code readability.
+### 3. constants directory: This directory will be used to store reusable constants such as api urls,Color palettes,Theme variables.
+### 4. public/assets directory: The public directory is specifically designed to store static assets that you want to be served directly to the browser without any server-side processing or bundling
 
-##Instructions
+## Instructions
 **Setting Up a Next.js Project Locally**
 
 ### Prerequisites:
