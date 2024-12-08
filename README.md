@@ -17,14 +17,14 @@ The ALX Listing App project aims to scaffold and lay the foundational structure 
 1. **Clone the Repository:**
    - **Git:** If you have a Git repository for your Next.js project, clone it to your local machine:
      ```bash
-     git clone [https://github.com/your-username/your-project-name.git](https://github.com/VictorOzo/alx-listing-app.git)
+     git clone https://github.com/VictorOzo/alx-listing-app.git
      ```
    - **Manual Download:** If you have a ZIP file, extract it to your desired location.
 
 2. **Navigate to the Project Directory:**
    - Open your terminal or command prompt and navigate to the project's root directory:
      ```bash
-     cd your-project-name
+     cd alx-listing-app
      ```
 
 3. **Install Dependencies:**
